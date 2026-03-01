@@ -61,6 +61,7 @@ No extra spaces
 No quotes
 
 📂 Project Structure Example 
+
 │
 
 ├── main.py
