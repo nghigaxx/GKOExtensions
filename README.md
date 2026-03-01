@@ -62,9 +62,13 @@ No quotes
 
 📂 Project Structure Example 
 │
+
 ├── main.py
+
 ├── chromedriver.exe
+
 ├── credentials.txt
+
 └── README.md
 
 ▶ Running the Script
