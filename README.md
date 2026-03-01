@@ -60,7 +60,12 @@ No extra spaces
 
 No quotes
 
-📂 Project Structure Example project-folder/ │ ├── market.py ├── chromedriver.exe ├── credentials.txt └── README.md
+📂 Project Structure Example 
+│
+├── main.py
+├── chromedriver.exe
+├── credentials.txt
+└── README.md
 
 ▶ Running the Script
 
