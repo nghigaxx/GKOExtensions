@@ -38,7 +38,7 @@ try:
                 EC.presence_of_element_located((By.ID, 'news_input'))
             )
             chat_input.clear()
-            chat_input.send_keys(f" MSG ") #Msg here
+            chat_input.send_keys(f" [Position] CA/LA/PR [Age] [Price] [p_id]PLAYER_ID[/p_id] ") #Msg here
 
             # Click the "Share" button
             share_button = browser.find_element(By.XPATH, '//input[@value="Share"]')
