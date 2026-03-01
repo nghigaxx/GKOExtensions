@@ -64,7 +64,11 @@ No quotes
 
 │
 
-├── main.py
+├── Scout.py
+
+├── Energy.py
+
+├── PlayerAdvertise.py
 
 ├── chromedriver.exe
 
