@@ -78,6 +78,8 @@ You may need to adjust timeouts depending on your internet speed.
 
 If Chrome opens and closes immediately, check driver compatibility.
 
+Scout.py need premium activated
+
 🛠 Troubleshooting
 
 Error: session not created → ChromeDriver version does not match Chrome.
